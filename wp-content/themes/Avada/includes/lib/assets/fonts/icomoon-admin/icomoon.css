@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'icomoon';
-  src:  url('https://dcmaticshare.github.io/swipe3/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon-admin/icomoon.eot?upxs90');
-  src:  url('https://dcmaticshare.github.io/swipe3/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon-admin/icomoon.eot?upxs90#iefix') format('embedded-opentype'),
-    url('https://dcmaticshare.github.io/swipe3/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon-admin/icomoon.ttf?upxs90') format('truetype'),
-    url('https://dcmaticshare.github.io/swipe3/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon-admin/icomoon.woff?upxs90') format('woff'),
-    url('https://dcmaticshare.github.io/swipe3/wp-content/themes/Avada/includes/lib/assets/fonts/icomoon-admin/icomoon.svg?upxs90#icomoon') format('svg');
+  src:  url('icomoon.eot?upxs90');
+  src:  url('icomoon.eot?upxs90#iefix') format('embedded-opentype'),
+    url('icomoon.ttf?upxs90') format('truetype'),
+    url('icomoon.woff?upxs90') format('woff'),
+    url('icomoon.svg?upxs90#icomoon') format('svg');
   font-weight: normal;
   font-style: normal;
 }
